@@ -2,7 +2,7 @@
 GPT3 Function in Google Sheet without add ons. 
 
 
-Call Open AI API directly in Google Sheet. Use one cell column or multiple cell column as Input.
+Call Open AI API directly in Google Sheet. Use one cell multiple cell value as Input.
 
 
 Sample Usage
