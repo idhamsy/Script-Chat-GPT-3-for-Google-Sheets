@@ -1,4 +1,4 @@
-# Script-GPT3-for-Google-Sheets
+# Script-Chat-GPT-3-for-Google-Sheets
 GPT3 Function in Google Sheet without add ons. 
 
 
